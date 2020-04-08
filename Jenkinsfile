@@ -10,7 +10,7 @@ pipeline {
             steps {
                 sh 'mvn -B -DskipTests clean package'
             }
-        }
+        }ea1ded1940434264b97cc7f5affd1763
         // stage('Test') {
         //     steps {
         //         sh 'mvn test'
